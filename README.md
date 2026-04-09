@@ -43,7 +43,7 @@ Installation & Running Locally
     pnpm install
 3.  Start the development server:
     pnpm dev
-4.  Open your browser at http://localhost:5173
+4.  Open your browser at https://interactive-calendar-dusky-sigma.vercel.app/
 📜 Available Scripts
 •	pnpm dev  — Start the dev server at localhost:5173 with hot reload
 •	pnpm build  — Build the app for production into dist/public/
